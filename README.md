@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhenu D S
 - 👀 I’m interested in Developing and coding
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and flutter
 - 💞️ I’m looking to collaborate on some sutff based on my talent
 - 📫 How to reach me @dhenuds2003@gmail.com
 
